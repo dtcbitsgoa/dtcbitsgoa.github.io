@@ -71,3 +71,7 @@ buttons
     border-color: none;
     background-color: #211D70;
 }
+
+.projectHeading{
+    font-weight: bold;
+}

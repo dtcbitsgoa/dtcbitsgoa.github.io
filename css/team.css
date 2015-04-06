@@ -21,7 +21,7 @@
   members
 *******/
 .members1{
-  height: 520px;
+  height: 260px;
   padding: 0px 10%;
 }
 .members2{
@@ -51,7 +51,7 @@
   members
 *******/
 .type{
-  margin: 20px 10% 0px;
+  margin: 25px 10% 0px;
   font-weight: bold;
   font-size: 18px;
   color: #211D70;
@@ -108,4 +108,38 @@ buttons
 .info{
   font-size: 14px;
   line-height: 22px;
+}
+
+
+.admin{
+    width: 500px;
+    padding: 20px 10px;
+    margin-bottom: 30px;
+    border: 1px solid #eee;
+    background-color: #f5f5f5;
+    margin: 20px;
+    text-align: center;
+    color: #353535;
+    height: 240px;
+}
+.adminImage{
+  width: 40%;
+  height: 180px;
+  float: left;
+  padding:10px;
+}
+.adminInfo{
+  width: 60%;
+  height: 120px;
+  float: left;
+  font-size: 14px;
+  text-align: left;
+  padding-top: 6px;
+  color: #333333;
+  font-weight: bold;
+}
+.adminImage img{
+  display: block;
+  width: 90%;
+  height: 160px;
 }
