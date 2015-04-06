@@ -20,7 +20,7 @@
 /******
   members
 *******/
-.program{
+.notice{
   height: 500px;
   padding: 25px 10%;
   color: #333333;
@@ -33,14 +33,4 @@
   members
 *******/
 
-#opdetails{
-  height: 50px;
-  padding:12px;
-  background-color:#DFDFDF;
-  width: 400px;
-  font-weight: bold;
-  cursor: pointer;
-}
-#opdetContents{
-  display: none;
-}
+
