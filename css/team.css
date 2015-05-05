@@ -25,7 +25,7 @@
   padding: 0px 10%;
 }
 .members2{
-  height: 1040px;
+  overflow: auto;
   padding: 25px 10%;
 }
 
