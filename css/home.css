@@ -52,7 +52,7 @@
 .row{
     width: 100%;
     background-color: #fff;
-    margin-top:20px; 
+    margin-top:20px;
 }
 .col{
     width: 41%;
@@ -361,4 +361,49 @@ buttons
     color: #fff;
     border-color: none;
     background-color: #211D70;
+}
+@media (max-width: 800px) {
+  .right{
+    display: none;
+  }
+  .heading{
+    font-size: 32px;
+  }
+  .carousl{
+    height: 300px;
+    width: 95%;
+  }
+  .item img{
+    height: 300px;
+  }
+  .col{
+    width: 100%;
+  }
+  .projects{
+    height: 1500px;
+  }
+  .intro {
+    height: 357px;
+    padding-top: 20px;
+    background-color: #f5f5f5;
+  }
+  .intro div{
+    font-size: 18px;
+    line-height: 28px;
+  }
+}
+
+@media (min-width: 1023px) and (max-width: 1280px){
+  .right{
+    margin-left: 3%;
+
+  }
+  .right li{
+        display: block;
+        padding: 18px 0px;
+        float: left;
+        width: 115px;
+        height: 59px;
+        text-align: center;
+    }
 }
