@@ -316,8 +316,8 @@ textarea {
     }
     .right{
         height: 60px;
-        float: right;
-        margin-right: 10%;
+        float: left;
+        margin-left: 10%;
     }
     .right li{
         display: block;
